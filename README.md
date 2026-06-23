@@ -11,7 +11,7 @@
 
 ### `Software Developer` · `Bandung, Indonesia` · `Open to Work`
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfarizi.my.id)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadhafiz462@gmail.com)
 [![Jobstreet](https://img.shields.io/badge/Jobstreet-FF6900?style=for-the-badge&logo=jobstreet&logoColor=white)](https://id.jobstreet.com/id/profiles/alfa-rizi-1lxtyz97xN)
 
