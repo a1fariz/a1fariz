@@ -1,6 +1,14 @@
 <div align="center">
 
-![Alfa Rizi Header](./header.png)
+```
+    ___    __    _________       ____  _________  ____
+   /   |  / /   / ____/   |     / __ \/  _/__  / /  _/
+  / /| | / /   / /_  / /| |    / /_/ // /   / /  / /  
+ / ___ |/ /___/ __/ / ___ |   / _, _// /   / /__/ /   
+/_/  |_/_____/_/   /_/  |_|  /_/ |_/___/  /___/___/   
+```
+
+# ALFA RIZI
 
 ### `Software Engineer` • `Bandung, Indonesia` • `Open to Work`
 
@@ -152,9 +160,11 @@ Terminal-based digital wallet written in pure C implementing a two-role RBAC sys
 
 <div align="center">
 
-![Alfa's GitHub Overview & Core Technologies](./github-stats.png)
+[![Public Repositories](https://img.shields.io/badge/Public_Repositories-13+-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a1fariz?tab=repositories)
+[![Top Languages](https://img.shields.io/badge/Core_Stack-Java_•_TypeScript_•_Python_•_C-2ea44f?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/a1fariz)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-Automated_%26_Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/a1fariz)
 
-<br/>
+<br/><br/>
 
 [![Streak Stats](https://streak-stats.demolab.com/?user=a1fariz&theme=tokyonight&hide_border=true)](https://github.com/a1fariz)
 
