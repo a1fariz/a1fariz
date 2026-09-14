@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=200&section=header&text=ALFA%20RIZI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20%26%20Distributed%20Systems&descAlignY=60&descSize=15" width="100%" alt="Alfa Rizi Header" />
+![Alfa Rizi Header](./header.png)
 
-<a href="https://alfarizi.my.id">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Software+Engineer+%E2%80%A2+Bandung%2C+Indonesia;Java+17+%7C+Quarkus+3.15+%7C+Spring+Boot+3.2;Distributed+Microservices+%26+Double-Entry+Escrow;Asynchronous+RAG+Pipelines+%26+AI+Integration;Modern+Full-Stack+Web+%28React+19+%2B+Next.js%29" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+### `Software Engineer` • `Bandung, Indonesia` • `Open to Work`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfarizi.my.id)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfarizi.developer@gmail.com)
@@ -156,8 +152,11 @@ Terminal-based digital wallet written in pure C implementing a two-role RBAC sys
 
 <div align="center">
 
-![Alfa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a1fariz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a1fariz&layout=compact&theme=tokyonight&hide_border=true)
+![Alfa's GitHub Overview & Core Technologies](./github-stats.png)
+
+<br/>
+
+[![Streak Stats](https://streak-stats.demolab.com/?user=a1fariz&theme=tokyonight&hide_border=true)](https://github.com/a1fariz)
 
 </div>
 
