@@ -1,16 +1,12 @@
 <div align="center">
 
-```
-    ___    __    _________       ____  _________  ____
-   /   |  / /   / ____/   |     / __ \/  _/__  / /  _/
-  / /| | / /   / /_  / /| |    / /_/ // /   / /  / /  
- / ___ |/ /___/ __/ / ___ |   / _, _// /   / /__/ /   
-/_/  |_/_____/_/   /_/  |_|  /_/ |_/___/  /___/___/   
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=200&section=header&text=ALFA%20RIZI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20%26%20Distributed%20Systems&descAlignY=60&descSize=15" width="100%" alt="Alfa Rizi Header" />
 
-# ALFA RIZI
+<a href="https://alfarizi.my.id">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Software+Engineer+%E2%80%A2+Bandung%2C+Indonesia;Java+17+%7C+Quarkus+3.15+%7C+Spring+Boot+3.2;Distributed+Microservices+%26+Double-Entry+Escrow;Asynchronous+RAG+Pipelines+%26+AI+Integration;Modern+Full-Stack+Web+%28React+19+%2B+Next.js%29" alt="Typing SVG" />
+</a>
 
-### `Software Engineer` • `Bandung, Indonesia` • `Open to Work`
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfarizi.my.id)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfarizi.developer@gmail.com)
@@ -160,13 +156,8 @@ Terminal-based digital wallet written in pure C implementing a two-role RBAC sys
 
 <div align="center">
 
-[![Public Repositories](https://img.shields.io/badge/Public_Repositories-13+-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a1fariz?tab=repositories)
-[![Top Languages](https://img.shields.io/badge/Core_Stack-Java_•_TypeScript_•_Python_•_C-2ea44f?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/a1fariz)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-Automated_%26_Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/a1fariz)
-
-<br/><br/>
-
-[![Streak Stats](https://streak-stats.demolab.com/?user=a1fariz&theme=tokyonight&hide_border=true)](https://github.com/a1fariz)
+![Alfa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a1fariz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a1fariz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -178,3 +169,5 @@ _"Doing well with money has a little to do with how smart you are and a lot to d
 — **Morgan Housel**
 
 </div>
+
+yang ini gambar nya ga ada yang bisa error dari gambar header,githhub stats,top languange
