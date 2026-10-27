@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,12,24,31&amp;height=200&amp;section=header&amp;text=ALFA%20RIZI&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Software%20Developer%20%E2%80%A2%20Web%2C%20Backend%2C%20Mobile%20%26%20AI&amp;descAlignY=60&amp;descSize=15" width="100%" alt="Alfa Rizi — Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,12,24,31&amp;height=200&amp;section=header&amp;text=ALFA%20RIZI&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Software%20Developer%20%E2%80%A2%20Web%2C%20Backend%2C%20Mobile%20%C2%B7%20AI&amp;descAlignY=60&amp;descSize=15" width="100%" alt="Alfa Rizi — Software Developer" />
 
 <a href="https://alfarizi.my.id">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=3000&amp;pause=1000&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Software+Developer+%E2%80%A2+Bandung%2C+Indonesia;Frontend+%26+Full+Stack+%E2%80%A2+React+%26+Next.js;Backend+%E2%80%A2+Go%2C+Java+%26+PostgreSQL;Mobile+%E2%80%A2+Flutter+%26+SQLite;AI+Applications+%E2%80%A2+Python+%26+RAG;IT+Support+%E2%80%A2+Hands-on+Internship+Experience" alt="Web, backend, mobile, AI application development and IT support" />
