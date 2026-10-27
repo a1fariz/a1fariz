@@ -12,11 +12,11 @@ Mahasiswa D3 Manajemen Informatika di **Universitas Nasional PASIM**, **sedang m
 
 | Project | What I implemented | Stack |
 | --- | --- | --- |
-| [Catat Uang — case study](https://alfarizi.my.id/work/catat-uang) | Offline ledger, explicitly linked transaction/bill synchronization, idempotent payments, encrypted backups, and account recovery | Go, PostgreSQL, Flutter, SQLite |
+| [Catat Uang](https://github.com/a1fariz/CatatUang) | Offline ledger, explicitly linked transaction/bill synchronization, idempotent payments, encrypted backups, and account recovery | Go, PostgreSQL, Flutter, SQLite |
 | [ReLoop](https://github.com/a1fariz/ReLoop) | Modular commerce backend, double-entry escrow accounting, expiring checkout leases, and transactional outbox | Java, Quarkus, PostgreSQL, Redis, Next.js |
 | [ApexGrid](https://github.com/a1fariz/ApexGrid) | Gateway, user and race-ticket services, JWT/RBAC, inventory triggers, and reservation expiry | Java, Spring Boot, Spring Cloud Gateway, PostgreSQL, React |
 
-**Catat Uang:** the source repository is private. The project report records successful backend and mobile CI, including PostgreSQL/race and Android emulator verification, on 27 October 2026. Public deployment, production signing, email-provider delivery, and real-device acceptance remain pending.
+**Catat Uang:** [source code and verification reports](https://github.com/a1fariz/CatatUang) are public; [architecture case study](https://alfarizi.my.id/work/catat-uang). The project report records successful backend and mobile CI, including PostgreSQL/race and Android emulator verification, on 27 October 2026. Public deployment, production signing, email-provider delivery, and real-device acceptance remain pending.
 
 Explore [architecture decisions and testing evidence](https://alfarizi.my.id/#projects) in the portfolio.
 
